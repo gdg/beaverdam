@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "GDG/Tarek Hariri <dev.npk@gdg.io>",
-  "license": "OSL-3.0"
+  "license": "OSL-3.0",
+  "dependencies": {
+    "dotenv": "^4.0.0"
+  }
 }
